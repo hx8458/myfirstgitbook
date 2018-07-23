@@ -1,6 +1,6 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [hello](hello.md)
+* [第一页](chapter1.md)
+* [第二页](hello.md)
 
